@@ -17,22 +17,22 @@ public class GameWindow extends JPanel
 	private JButton push;
 	private JLabel label;
 	
-	ImageIcon one = new ImageIcon("1.jpg");
-	ImageIcon two = new ImageIcon("2.jpg");
-	ImageIcon three = new ImageIcon("3.jpg");
-	ImageIcon four = new ImageIcon("4.jpg");
-	ImageIcon five = new ImageIcon("5.jpg");
-	ImageIcon six = new ImageIcon("6.jpg");
-	ImageIcon seven = new ImageIcon("7.jpg");
-	ImageIcon eight = new ImageIcon("8.jpg");
-	ImageIcon nine = new ImageIcon("9.jpg");
-	ImageIcon ten = new ImageIcon("10.jpg");
-	ImageIcon eleven = new ImageIcon("11.jpg");
-	ImageIcon twelve = new ImageIcon("12.jpg");
-	ImageIcon thirteen = new ImageIcon("13.jpg");
-	ImageIcon fourteen = new ImageIcon("14.jpg"); 
-	ImageIcon fifteen = new ImageIcon("15.jpg");
-	ImageIcon empty = new ImageIcon("black.jpg");
+	ImageIcon one = new ImageIcon("img/1.jpg");
+	ImageIcon two = new ImageIcon("img/2.jpg");
+	ImageIcon three = new ImageIcon("img/3.jpg");
+	ImageIcon four = new ImageIcon("img/4.jpg");
+	ImageIcon five = new ImageIcon("img/5.jpg");
+	ImageIcon six = new ImageIcon("img/6.jpg");
+	ImageIcon seven = new ImageIcon("img/7.jpg");
+	ImageIcon eight = new ImageIcon("img/8.jpg");
+	ImageIcon nine = new ImageIcon("img/9.jpg");
+	ImageIcon ten = new ImageIcon("img/10.jpg");
+	ImageIcon eleven = new ImageIcon("img/11.jpg");
+	ImageIcon twelve = new ImageIcon("img/12.jpg");
+	ImageIcon thirteen = new ImageIcon("img/13.jpg");
+	ImageIcon fourteen = new ImageIcon("img/14.jpg"); 
+	ImageIcon fifteen = new ImageIcon("img/15.jpg");
+	ImageIcon empty = new ImageIcon("img/black.jpg");
 	
 	
 
